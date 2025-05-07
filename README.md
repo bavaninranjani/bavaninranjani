@@ -7,7 +7,7 @@ I’m a seasoned Analyst with a proven track record of driving measurable busine
 
 | Project | Description |
 |--------|-------------|
-| [Markov_Chain_Attribution](https://github.com/krishnamami/Markov_Chain_Attribution) | Probabilistic attribution modeling using channel survival analysis |
+| [Markov_Chain_Attribution](https://github.com/bavaninranjani/markov) | Probabilistic attribution modeling using channel survival analysis |
 | [Exploratory_Data_Analysis](https://github.com/bavaninranjani/EDA) | Deep EDA on survival dataset using Python, Seaborn, and Matplotlib |
 
 ## 🛠️ Technical Skills
