@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Bhavani
+Marketing Analyst
 
-<!--
-**bavaninranjani/bavaninranjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a seasoned Analyst with a proven track record of driving measurable business impact through campaign optimization, segmentation, and advanced statistical analysis.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Featured Projects
+Project	Description
+Markov_Chain_Attribution	Probabilistic attribution modeling using channel survival analysis
+Exploratory_Data_Analysis	Deep EDA on survival dataset using Python, Seaborn, and Matplotlib
+🛠️ Technical Skills
+Languages: Python, SQL
+Frameworks: Scikit-learn
+Tools: AWS
+Databases: Snowflake,Databricks,Teradata,Oracle
+Others: Git, CI/CD, Agile Methodologies,Kafka,Spark
+🌐 Connect with Me
+🔗 LinkedIn
+📫 Email: bavaninranjani@gmail.com
