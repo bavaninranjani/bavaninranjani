@@ -16,8 +16,8 @@ I’m a seasoned Analyst with a proven track record of driving measurable busine
 - **Languages**: Python, SQL
 - **Frameworks**:  Scikit-learn
 - **Tools**: AWS,Airflow
-- **Databases**: Snowflake,Databricks,Teradata,Oracle
-- **Others**: Git, CI/CD, Agile Methodologies,Kafka,Spark
+- **Databases**: Snowflake,Oracle
+- **Others**: Git, CI/CD, Agile Methodologies
 
 ## 🌐 Connect with Me
 
